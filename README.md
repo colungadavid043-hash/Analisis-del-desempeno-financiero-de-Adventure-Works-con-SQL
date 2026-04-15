@@ -1,6 +1,9 @@
 
 # Análisis del desempeño financiero de Adventure Works con SQL✖️ ➕
 
+>[!NOTE]
+> PROYECTO REALIZADO EN TRIPLETEN
+
 Se quiere saber en qué mercados se generan más ingresos y rentabilidad para decidir dónde invertir el próximo dólar de marketing.
 
 
