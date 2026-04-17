@@ -29,9 +29,14 @@ Se quiere saber en qué mercados se generan más ingresos y rentabilidad para de
 - Calcular KPIs financieros y guardarlos en vistas.
 
 
+### Dataset
 
-
-
+- Ventas_2017: transacciones de líneas de pedido (2017). Grano: una línea por producto y pedido.
+- Productos: catálogo con atributos, costo y precio unitario por ClaveProducto.
+- Productos_categorias: jerarquía categoría/subcategoría para enriquecer productos.
+- Clientes: maestro de clientes con segmento y ubicación.
+- Territorios: mapa de ClaveTerritorio → país y continente.
+- Campanas: gasto de marketing por territorio/campaña.
 
 
 ###  Principales Hallazgos  🔧
